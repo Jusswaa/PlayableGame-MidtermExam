@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jusswaa.github.io/my-game",
+  "homepage": "https://Jusswaa.github.io/PlayableGame-MidtermExam",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
